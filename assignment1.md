@@ -1,8 +1,8 @@
 <h1> Idea 1: Is stay-at-home order effective? </h1>
 <h4> This will be a story mainly building around a data piece. I would like to do a map timeline (like with a slider at the bottom indicating time) and compile two sets of separate data:
 
-1. the number of confirmed coronavirus cases per state/city
-2. dates when each state/city's stay-at-home order became effective
+* the number of confirmed coronavirus cases per state/city
+* dates when each state/city's stay-at-home order became effective
 
 I was thinking maybe I could make the state borders on the map bold when it started the order and the number of confirmed cases would be colourcoded. This way I can show if the numbers are going down/up/staying the same with or without stay-at-home orders in a single map. </h4>
 
